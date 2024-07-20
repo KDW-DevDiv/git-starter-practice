@@ -22,4 +22,6 @@
 
 ## チェック担当者
 
-Pull Request タブで`base:main is:open`でフィルターすると一覧で確認できます。
+Filter を設定してあります。
+
+[こちら](https://github.com/KDW-DevDiv/git-starter-practice/pulls?q=is%3Apr+is%3Aopen+base%3Amain)からご確認ください。
