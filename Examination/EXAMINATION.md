@@ -18,4 +18,8 @@
 
 また、提出データ確認を簡単にするために、PR 作成時のタイトルに`社員コード`を入れてください。
 
-[サンプル]()
+[サンプル](https://github.com/KDW-DevDiv/git-starter-practice/pull/43)
+
+## チェック担当者
+
+Pull Request タブで`base:main is:open`でフィルターすると一覧で確認できます。
